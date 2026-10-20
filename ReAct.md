@@ -1,4 +1,4 @@
-Here is the complete overview and Git-ready documentation for the **ReAct (Reason + Act)** agent design pattern.
+Git-ready documentation for the **ReAct (Reason + Act)** agent design pattern.
 
 ---
 
